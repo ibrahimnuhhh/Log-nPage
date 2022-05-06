@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogınPage", "LogınPage.csproj", "{770157E5-7AD1-44EC-AC50-0D4CBA519206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{770157E5-7AD1-44EC-AC50-0D4CBA519206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770157E5-7AD1-44EC-AC50-0D4CBA519206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770157E5-7AD1-44EC-AC50-0D4CBA519206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770157E5-7AD1-44EC-AC50-0D4CBA519206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E142383A-B40D-4213-B63A-FCF37F4D9A8C}
+	EndGlobalSection
+EndGlobal
