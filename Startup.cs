@@ -8,8 +8,9 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Login2.Data;
+
 using Microsoft.EntityFrameworkCore;
+using LogýnPage.Data;
 
 namespace Login2
 {

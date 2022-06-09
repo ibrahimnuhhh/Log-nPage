@@ -5,10 +5,11 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Login2.Data;
-using Login2.Models;
 
-namespace Login2.Controllers
+using LogınPage.Data;
+using LogınPage.Models;
+
+namespace LogınPage.Controllers
 {
     public class PeopleController : Controller
     {

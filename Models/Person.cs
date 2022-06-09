@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Login2.Models
+namespace LogınPage.Models
 {
     public class Person
     {

@@ -5,9 +5,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Login2.Models;
 
-namespace Login2.Controllers
+using LogınPage.Models;
+
+namespace LogınPage.Controllers
 {
     public class HomeController : Controller
     {

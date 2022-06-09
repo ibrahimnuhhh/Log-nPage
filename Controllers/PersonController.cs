@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Login2.Controllers
+namespace LogınPage.Controllers
 {
     public class PersonController : Controller
     {
