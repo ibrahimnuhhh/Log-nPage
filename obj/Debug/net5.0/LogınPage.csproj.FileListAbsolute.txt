@@ -470,8 +470,8 @@ C:\Users\ibrahim.nuh\Desktop\Github projelerim\logintest\LogınPage\LogınPage\o
 C:\Users\ibrahim.nuh\Desktop\Github projelerim\logintest\LogınPage\LogınPage\obj\Debug\net5.0\LogınPage.Views.pdb
 C:\Users\ibrahim.nuh\Desktop\Github projelerim\logintest\LogınPage\LogınPage\obj\Debug\net5.0\LogınPage.csproj.CopyComplete
 C:\Users\ibrahim.nuh\Desktop\Github projelerim\logintest\LogınPage\LogınPage\obj\Debug\net5.0\LogınPage.genruntimeconfig.cache
-C:\Users\ibrahim.nuh\Desktop\Github projelerim\logintest\LogınPage\LogınPage\obj\Debug\net5.0\Razor\Views\Logın\Index.cshtml.g.cs
 C:\Users\ibrahim.nuh\Desktop\Github projelerim\logintest\LogınPage\LogınPage\bin\Debug\net5.0\Humanizer.dll
 C:\Users\ibrahim.nuh\Desktop\Github projelerim\logintest\LogınPage\LogınPage\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\ibrahim.nuh\Desktop\Github projelerim\logintest\LogınPage\LogınPage\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\ibrahim.nuh\Desktop\Github projelerim\logintest\LogınPage\LogınPage\bin\Debug\net5.0\bundleconfig.json
+C:\Users\ibrahim.nuh\Desktop\Github projelerim\logintest\LogınPage\LogınPage\obj\Debug\net5.0\Razor\Views\Lgın\Index.cshtml.g.cs

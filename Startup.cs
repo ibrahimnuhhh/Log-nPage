@@ -12,7 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using LogýnPage.Data;
 
-namespace Login2
+namespace LogýnPage
 {
     public class Startup
     {
@@ -55,7 +55,7 @@ namespace Login2
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=People}/{action=Index}/{id?}");
+                    pattern: "{controller=lgýn}/{action=Index}/{id?}");
             });
         }
     }
